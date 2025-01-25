@@ -3,26 +3,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Homepage1
-![Homepage1 Screenshot](../ScreenShots/wh%20home%20cool.jpg)
+![Homepage1 Screenshot](./ScreenShots/wh%20home%20cool.jpg)
 
 
 ## Homepage2
-![Homepage2 Screenshot](../ScreenShots/weatherhome.jpg)
+![Homepage2 Screenshot](./ScreenShots/weatherhome.jpg)
 
 ## Login Page
-![Login Page Screenshot](../ScreenShots/whlog.jpg)
+![Login Page Screenshot](./ScreenShots/whlog.jpg)
 
 ## Signup Page
-![signup Page Screenshot](../ScreenShots/whsign.jpg)
+![signup Page Screenshot](./ScreenShots/whsign.jpg)
 
 ## DashBoard
-![DashBoard Page Screenshot](../ScreenShots/whmain.jpg)
+![DashBoard Page Screenshot](./ScreenShots/whmain.jpg)
 
 ## DataBase Schema1
-![DB Page Screenshot](../ScreenShots/whdb1.jpg)
+![DB Page Screenshot](./ScreenShots/whdb1.jpg)
 
 ## Database Schema2
-![DB Schema](../ScreenShots/whdb2.jpg)
+![DB Schema](./ScreenShots/whdb2.jpg)
 
 ## Available Scripts
 
